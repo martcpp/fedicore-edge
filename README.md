@@ -5,7 +5,7 @@ of self-hosted edge infrastructure, developing coordinated, cross-plane atomic r
 (system + database schema + data) as its core contribution.
 
 This project is developed by Mordecai Etukudo and field-tested in collaboration with the
-**Rust Africa** community, to keep decentralized Fediverse nodes highly available in power and
+[**Rust Africa**](https://rustafrica.org/) community, to keep decentralized Fediverse nodes highly available in power and
 connectivity-constrained environments.
 
 ## Status
